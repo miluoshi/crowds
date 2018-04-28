@@ -28,4 +28,4 @@
 /////////////////////////////
 
 en: English
-sk: Slovak
+sk: Slovenčina
